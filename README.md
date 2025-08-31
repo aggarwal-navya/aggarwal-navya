@@ -1,26 +1,32 @@
-<h1 align="center">Hi 👋, I'm Navya Aggarwal</h1>  
-<h3 align="center">💻 AI & Software Enthusiast | Lifelong Learner</h3>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=ff00ff,00ffff,ff7f50&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Navya+Aggarwal;Aspiring+AI+ML+Enthusiast;Turning+Coffee+into+Code" />
+</h1>
+
+<p align="center">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg1eHVxNzRjb3Axb2JxMXN4Ymk2MTl4cTNnMzZtZmJ3ajk2Z3g2YSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/HscDLzkO8EOTmgkhQP/giphy.gif"
+    width="180"
+    alt="Neon Avatar"
+    style="border-radius: 50%; box-shadow: 0 0 20px #ff00ff, 0 0 40px #00ffff;" 
+  />
+</p>
+
+---
 
 # 💫 About Me:
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-  <!-- Left side (Text) -->
-  <div style="text-align: left;">
-    🌱 I’m currently learning & mastering Python <br><br> 
-    📊 Diving deep into DSA with Python <br><br> 
-    🎨 I love building creative + functional projects <br><br> 
-    ☕ Coffee + Code = My happy place <br><br> 
+### 👩‍💻 About Me  
+    🌱 I’m currently learning & mastering Python 
+    📊 Diving deep into DSA with Python 
+    🎨 I love building creative + functional projects 
+    ☕ Coffee + Code = My happy place 
     💡 Always curious, always experimenting  
-  </div>
 
-  <!-- Right side (GIF) -->
-  <div style="flex-shrink: 0;">
-    <img alt="Coding" width="350" 
-      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg1eHVxNzRjb3Axb2JxMXN4Ymk2MTl4cTNnMzZtZmJ3ajk2Z3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-  </div>
 
+---
 
 # 💻 Tech Stack:
+<div align="center">
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -28,24 +34,78 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aggarwal-navya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aggarwal-navya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aggarwal-navya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-# 🏆 LeetCode Progress:
-![LeetCode Stats](https://leetcard.jacoblin.cool/navya_aggarwal?theme=dark&font=Karma&ext=contest)
-
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-aggarwal-189393289/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggarwalnavya145@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/navya_aggarwal/)  
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aggarwal-navya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aggarwal-navya&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" height="180em"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aggarwal-navya&theme=tokyonight&hide_border=false" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aggarwal-navya&layout=compact&theme=cobalt&count_private=true&langs_count=6" height="160em"/>
+</p>
+---
+
+# 🏆 LeetCode Progress:
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/navya_aggarwal?theme=dark&font=Karma&ext=contest)
+
+</div>
+
+---
+
+## 📌 Pinned Projects
+<p align="center">
+ <a href="https://github.com/aggarwal-navya/Coffee-Shop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggarwal-navya&repo=Coffee-Shop&theme=cobalt&border_radius=25&title_color=ff7f50"/>
+  </a>
+  <a href="https://github.com/aggarwal-navya/hyb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aggarwal-navya&repo=hyb&theme=gruvbox&border_radius=25&title_color=00ff00"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/navyaaggarwal" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/navyaaggarwal" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:navyaaggarwal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=aggarwal-navya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=aggarwal-navya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
