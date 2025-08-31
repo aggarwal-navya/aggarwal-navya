@@ -27,6 +27,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B,4ECDC4,45B7D1&center=true&vCenter=true&width=600&lines=🌱+Currently+mastering+Python+%26+DSA;📊+Exploring+AI%2FML+algorithms;🎨+Creating+innovative+solutions;☕+Powered+by+coffee+%26+curiosity;💡+Always+learning%2C+always+growing" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=4000&pause=2000&color=FFA500,FFD700,FF69B4&center=true&vCenter=true&width=500&lines=💭+%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;💭+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;💭+%22Experience+is+the+name+everyone+gives+to+their+mistakes.%22;💭+%22The+best+error+message+is+the+one+that+never+shows+up.%22" />
+</div>
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -86,6 +90,10 @@
   <img src="https://skillicons.dev/icons?i=python,js,java,c,html,css,git,github,vscode,linux" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=12&duration=5000&pause=1500&color=32CD32,FFB6C1,87CEEB&center=true&vCenter=true&width=400&lines=💻+%22Talk+is+cheap.+Show+me+the+code.%22;🐛+%22Debugging+is+twice+as+hard+as+writing+code.%22;⚡+%22Simplicity+is+the+ultimate+sophistication.%22" />
+</div>
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -138,6 +146,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
   <strong>LeetCode Progress</strong>
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=14&duration=6000&pause=2000&color=FF4500,32CD32,9370DB&center=true&vCenter=true&width=450&lines=🏅+%22Practice+makes+perfect%22;🎯+%22Every+expert+was+once+a+beginner%22;🚀+%22Code+never+lies%2C+comments+sometimes+do%22" />
 </div>
 
 <div align="center">
@@ -228,15 +240,14 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 
 ## 🎮 Fun Zone
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
-
-### 🐍 Play My Custom Neon Snake Game!
-<a href="https://aggarwal-navya.github.io/snake-game/" target="_blank">
-  <img src="https://img.shields.io/badge/🐍_PLAY_SNAKE_GAME-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" />
-</a>
-
-**Built with HTML5 Canvas & JavaScript | Neon Theme | Mobile Responsive**
-
+  
 ### 🎯 Random Programming Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117)
 
@@ -251,6 +262,10 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&border_radius=15"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=13&duration=5500&pause=2200&color=DA70D6,20B2AA,F0E68C&center=true&vCenter=true&width=480&lines=✨+%22Any+fool+can+write+code+that+a+computer+can+understand%22;🔧+%22Good+programmers+write+code+that+humans+can+understand%22;🌟+%22Perfection+is+achieved+when+there+is+nothing+left+to+remove%22" />
 </div>
 
 ---
