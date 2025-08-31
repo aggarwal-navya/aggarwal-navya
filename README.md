@@ -8,7 +8,13 @@
 ☕ Coffee + Code = My happy place <br><br> 
 💡 Always curious, always experimenting  
 
+</td>
+<td>
 <img align="right" alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg1eHVxNzRjb3Axb2JxMXN4Ymk2MTl4cTNnMzZtZmJ3ajk2Z3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
+</td>
+</tr>
+</table>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
