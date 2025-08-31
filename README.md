@@ -2,22 +2,23 @@
 <h3 align="center">💻 AI & Software Enthusiast | Lifelong Learner</h3>  
 
 # 💫 About Me:
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left">
-        🌱 I’m currently learning & mastering Python <br><br> 
-        📊 Diving deep into DSA with Python <br><br> 
-        🎨 I love building creative + functional projects <br><br> 
-        ☕ Coffee + Code = My happy place <br><br> 
-        💡 Always curious, always experimenting  
-      </td>
-      <td width="40%" align="center">
-        <img alt="Coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg1eHVxNzRjb3Axb2JxMXN4Ymk2MTl4cTNnMzZtZmJ3ajk2Z3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
-      </td>
-    </tr>
-  </table>
-</div>  
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+  <!-- Left side (Text) -->
+  <div style="text-align: left;">
+    🌱 I’m currently learning & mastering Python <br><br> 
+    📊 Diving deep into DSA with Python <br><br> 
+    🎨 I love building creative + functional projects <br><br> 
+    ☕ Coffee + Code = My happy place <br><br> 
+    💡 Always curious, always experimenting  
+  </div>
+
+  <!-- Right side (GIF) -->
+  <div style="flex-shrink: 0;">
+    <img alt="Coding" width="350" 
+      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTg1eHVxNzRjb3Axb2JxMXN4Ymk2MTl4cTNnMzZtZmJ3ajk2Z3g2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif"
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
+  </div>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
