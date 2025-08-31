@@ -115,25 +115,6 @@
 
 ---
 
-## 🎮 Snake Game Zone
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<div align="center">
-  
-### 🐍 Play My Custom Neon Snake Game!
-<a href="https://aggarwal-navya.github.io/snake-game/" target="_blank">
-  <img src="https://img.shields.io/badge/🐍_PLAY_SNAKE_GAME-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000&color=gradient" />
-</a>
-
-**Built with HTML5 Canvas & JavaScript | Neon Theme | Mobile Responsive**
-
-</div>
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -248,7 +229,14 @@ Other        5 mins          ░░░░░░░░░░░░░░░░░
 ## 🎮 Fun Zone
 
 <div align="center">
-  
+
+### 🐍 Play My Custom Neon Snake Game!
+<a href="https://aggarwal-navya.github.io/snake-game/" target="_blank">
+  <img src="https://img.shields.io/badge/🐍_PLAY_SNAKE_GAME-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" />
+</a>
+
+**Built with HTML5 Canvas & JavaScript | Neon Theme | Mobile Responsive**
+
 ### 🎯 Random Programming Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical&bgColor=0D1117)
 
